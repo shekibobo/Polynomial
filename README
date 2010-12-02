@@ -1,0 +1,5 @@
+Author: Joshua Kovach
+
+A polynomial calculator written in C.  Created for a class project in early 2010.
+
+This program will let you dynamically build a polynomial by inputting the coefficient-exponent value pairs. Values can be input in any order and will be sorted by decreasing exponents.  Like terms will be combined.  Supports adding, subtracting, multiplication, and evaluation.  Proudly created with a focus on memory management.  This was one of the first programs I wrote which used malloc, and tests found no memory leaks.
